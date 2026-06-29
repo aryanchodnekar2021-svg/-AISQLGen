@@ -135,8 +135,4 @@ All data flow is handled locally on your machine. The Next.js API routes run loc
              └───────────┘        └────────────┘
 ```
 
----
-
-## 🤝 Support & Community
-*   **Discord**: Join our [Discord community](https://discord.gg/4DGNMe6pzW)
-*   **Email**: Contact us at [founders@aisqlgen.com](mailto:founders@aisqlgen.com)
+-
