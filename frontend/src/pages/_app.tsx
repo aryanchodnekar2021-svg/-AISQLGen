@@ -11,6 +11,20 @@ import { useEffect, useState } from "react";
 import { Provider as ReduxProvider } from "react-redux";
 
 const theme = extendTheme({
+  colors: {
+    purple: {
+      50: "#DAF1DE",
+      100: "#BDDECE",
+      200: "#8EB69B",
+      300: "#5A8D78",
+      400: "#397061",
+      500: "#235347",
+      600: "#163832",
+      700: "#0B2B26",
+      800: "#051F20",
+      900: "#021011",
+    },
+  },
   fontSizes: {
     xs: "10px",
     sm: "12px",
